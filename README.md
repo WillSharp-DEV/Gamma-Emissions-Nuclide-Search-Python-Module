@@ -4,7 +4,7 @@ Below is an example of its execution...
 
 ```
 # This is how we import the module
-from  GammaEmmisionsLibrary  import  CreateSearch
+from  gamma_emissions_library  import  CreateSearch
 
 def  main():
 	#This creates our new search instance and searches all nuclides around 400 keV at a max of plusminus 30
